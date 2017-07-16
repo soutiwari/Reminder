@@ -1,8 +1,8 @@
 # Reminder
-Backend of the event reminder application
+Backend of the event reminder application by sending sms 30 min before the scheduled event
 # Requirement
 Install these libraries to run this project-<br/>
-django-pip installdjango<br/>
+django-pip install django<br/>
 djangorest framework-pip install djangorestframework<br/>
 PhoneNumberField-pip install django-phonenumber-field,for more information look https://github.com/stefanfoulis/django-phonenumber-field<br/>
 TimeZoneField-pip install django-timezone-field<br/>
@@ -14,6 +14,6 @@ Go to the foder where celery is installed and run-<br/>
 celery --app=Reminder.celery worker --loglevel=info<br/>
 Run the DRF project as normal any django web application and you are good to go.<br/>
 # Future Work
-Well someday I will create the frontend for this application
+Well,someday I will create the frontend for this application
 # Contribution
 Feel free to branch out and make pull request.Reporting bugs or code breaks and contributing a frontend for this project is highly appreciate,till then Happy coding!!
