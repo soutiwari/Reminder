@@ -16,4 +16,4 @@ Run the DRF project as normal any django web application and you are good to go.
 # Future Work
 Well,someday I will create the frontend for this application
 # Contribution
-Feel free to branch out and make pull request.Reporting bugs or code breaks and contributing a frontend for this project is highly appreciate,till then Happy coding!!
+Feel free to branch out and make pull request.Reporting bugs or code breaks and contributing a frontend for this project is highly appreciated,till then Happy coding!!
